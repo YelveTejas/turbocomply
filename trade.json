@@ -1,0 +1,10 @@
+[
+  {
+    "type": "buy",
+    "user_id": 23,
+    "symbol": "ABX",
+    "shares": 30,
+    "price": 120,
+    "id": 1
+  }
+]
